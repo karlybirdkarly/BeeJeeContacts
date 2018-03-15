@@ -1,0 +1,111 @@
+[{
+  "id": "0001",
+  "first_name": "Sansa",
+  "last_name": "Stark",
+  "phone_number": "765-775-3120",
+  "street_1": "80 Helpless Street",
+  "street_2": "apt 123",
+  "state": "North State",
+  "city": "Winterfell",
+  "country": "Westeros",
+  "zip": "55555"
+}, {
+  "id": "0002",
+  "first_name": "Arya",
+  "last_name": "Stark",
+  "phone_number": "765-775-3120",
+  "street_1": "666 NoOne Avenue",
+  "street_2": "apt 66",
+  "city": "Winterfell",
+  "state": "North State",
+  "country": "Westeros",
+  "zip": "12345"
+}, {
+  "id": "0003",
+  "first_name": "Bran",
+  "last_name": "Stark",
+  "phone_number": "765-775-3120",
+  "street_1": "320 Brown Street",
+  "street_2": "apt 700",
+  "city": "Winterfell",
+  "state": "The North",
+  "country": "Westeros",
+  "zip": "09876"
+}, {
+  "id": "0004",
+  "first_name": "Jon",
+  "last_name": "Targaryen",
+  "phone_number": "777-777-9900",
+  "street_1": "1234 Anywhere St",
+  "street_2": "apt 777",
+  "city": "I dont remember",
+  "state": "The South",
+  "country": "Westeros",
+  "zip": "77777"
+}, {
+  "id": "0005",
+  "first_name": "Tyrion",
+  "last_name": "Lannister",
+  "phone_number": "765-775-3120",
+  "street_1": "333 Dwarf St",
+  "street_2": "apt 333",
+  "city": "Winterfell",
+  "state": "The West",
+  "country": "Westeros",
+  "zip": "33333"
+ }, {
+ "id": "0006",
+ "first_name": "Robert",
+ "last_name": "Baratheon",
+ "phone_number": "765-775-3120",
+ "street_1": "80 Died Street",
+ "street_2": "apt 123",
+ "state": "North State",
+ "city": "Winterfell",
+ "country": "Westeros",
+ "zip": "55555"
+ }, {
+ "id": "0007",
+ "first_name": "Ned",
+ "last_name": "Stark",
+ "phone_number": "765-775-3120",
+ "street_1": "666 NoOne Avenue",
+ "street_2": "apt 66",
+ "city": "Winterfell",
+ "state": "North State",
+ "country": "Westeros",
+ "zip": "12345"
+ }, {
+ "id": "0008",
+ "first_name": "Cathelyn",
+ "last_name": "Stark",
+ "phone_number": "765-775-3120",
+ "street_1": "320 Brown Street",
+ "street_2": "apt 700",
+ "city": "Winterfell",
+ "state": "The North",
+ "country": "Westeros",
+ "zip": "09876"
+ }, {
+ "id": "0009",
+ "first_name": "Daenerys",
+ "last_name": "Targaryen",
+ "phone_number": "777-777-9900",
+ "street_1": "1234 Anywhere St",
+ "street_2": "apt 777",
+ "city": "I dont remember",
+ "state": "The South",
+ "country": "Westeros",
+ "zip": "77777"
+ }, {
+ "id": "0010",
+ "first_name": "Cersei",
+ "last_name": "Lannister",
+ "phone_number": "765-775-3120",
+ "street_1": "333 Dwarf St",
+ "street_2": "apt 333",
+ "city": "Winterfell",
+ "state": "The West",
+ "country": "Westeros",
+ "zip": "33333"
+ }]
